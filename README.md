@@ -1,0 +1,1 @@
+Bash Exercises for SO 
